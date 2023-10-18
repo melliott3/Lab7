@@ -1,4 +1,4 @@
-ul.main-navbar {
+#main-navbar ul {
   background-color: blue; 
   overflow: hidden;
   float: left;
@@ -18,7 +18,7 @@ ul.main-navbar {
   text-decoration: underline overline;
 }
 
-ul.sidebar {
+#sidebar ul {
   position: fixed;
   right:0%;
   background-color: red;
